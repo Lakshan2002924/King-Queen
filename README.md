@@ -51,11 +51,17 @@
  <p align="center">  
 <a href="https://qr.raganork.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="65" width="170" /></a>
 
-### Visit our official King Queen [Multi-Device] website for deploy instructions
 
-**[» Official Website]()**
+<p align="center">
+   Visit our official King Queen [Multi-Device] website for deploy instructions 
 
-### You can join our Beta Testing WhatsApp Group by this invite link
+
+## » ``Official Website``
+[![OFFICIAL WEBSITE](https://img.shields.io/badge/OFFICIAL%20WEBSITE-25D366?style=for-the-badge&logo=Color=white)](https://)
+
+<p align="center">  
+You can join our Beta Testing WhatsApp Group by this invite link
+
 
 ## » ``Join beta test group``
 [![WHATSAPP](https://img.shields.io/badge/Betatest%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GMwn9PwtjlCG5BciExDXIU)
