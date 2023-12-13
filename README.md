@@ -17,18 +17,21 @@
 ![license](https://img.shields.io/github/license/DrakShanu/KingQueen?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Drak%20Shanu&color=purple&style=plastic)
 
-### Visit our official King Queen 4.0v [Multi-Device] website for deploy instructions
+### Visit our official King Queen [Multi-Device] website for deploy instructions
 
-**[» Official Website](https://amdaniwasa.com)**
+**[» Official Website]()**
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
 **[» Join beta test group](https://chat.whatsapp.com/GMwn9PwtjlCG5BciExDXIU)**
 
+### For Railway deployers:
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
+
 ### For heroku deployers:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-**[» See heroku deploy instructions]()**
+
 
 **[» See other deploy methods]()**
 
