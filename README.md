@@ -12,6 +12,9 @@
 <h1 align="center"> ༺°••KING QUEEN-MD••°༻ 
 </h1>
 
+<p align="center"> 
+<b>Hello, I am "KING QUEEN" an Opensource WhatsApp bot made by <a href="https://github.com/Lakshan2002924">𝙳𝚁𝙰𝙺 𝚂𝙷𝙰𝙽𝚄</a> and his team "KING QUEEN" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support. 
+
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝙆𝙄𝙉𝙂+𝙌𝙐𝙀𝙀𝙉+𝙈𝘿.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚀𝚄𝙴𝙴𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝕄𝕣+𝔻𝕒𝕣𝕜+𝕊𝕙𝕒𝕟𝕦;)](https://git.io/typing-svg)
 
