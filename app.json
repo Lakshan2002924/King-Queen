@@ -8,8 +8,8 @@
         "multi-device"
     ],
     "website": "",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "repository": "https://github.com/Lakshan2002924/King-Queen",
+    "logo": "",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
         "HEROKU": {
