@@ -27,7 +27,11 @@
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
-**[» Join beta test group](https://chat.whatsapp.com/GMwn9PwtjlCG5BciExDXIU)**
+## » ``Join beta test group``
+[![WHATSAPP](https://img.shields.io/badge/Betatest%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GMwn9PwtjlCG5BciExDXIU)
+
+## » ``Support Group``
+[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GMwn9PwtjlCG5BciExDXIU) 
 
 ### For Railway deployers:
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
