@@ -49,6 +49,9 @@
 |**[`DRAK SHANU`](https://github.com/Lakshan2002924)**|
 
 ## License
+
+![license](https://img.shields.io/github/license/Lakshan2002924/King-Queen?color=green&label=License&style=plastic)
+
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
 
