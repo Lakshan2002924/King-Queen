@@ -42,6 +42,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
 
 <a href="https://github.com/Lakshan2002924/King-Queen/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork King-Queen" height="65" width="170" /></a>
+   
+<a href="https://qr.raganork.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="65" width="170" /></a>
 
 
 **[» See other deploy methods]()**
