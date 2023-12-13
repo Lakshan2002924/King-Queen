@@ -1,4 +1,4 @@
-# **KING QUEEN♥️** - A Javascript 💃 WhatsApp User Bot🤖
+# **KING QUEEN-MD♥️** - A Javascript 💃 WhatsApp User Bot🤖
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover]()
