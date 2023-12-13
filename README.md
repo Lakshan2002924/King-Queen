@@ -44,7 +44,7 @@
 ## **`KING-QUEEN TEAM BOT OWNERS,`**  *[ Since 2023 ]*
 
       
- <a href="https://github.com/Lakshan2002924"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+ <a href=""><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 |**[`DRAK SHANU`](https://github.com/Lakshan2002924)**|
 
