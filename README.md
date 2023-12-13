@@ -1,4 +1,4 @@
-# **KING QUEEN-MD♥️** - A Javascript 💃 WhatsApp User Bot🤖
+m# **KING QUEEN-MD♥️** - A Javascript 💃 WhatsApp User Bot🤖
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover]()
@@ -7,7 +7,9 @@
 
 ## ༺°••KING QUEEN-MD••°༻ 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗞𝗜𝗡𝗚╺+𝗤𝗨𝗘𝗘𝗡-𝗠𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗞𝗜𝗡𝗚╺+𝗤𝗨𝗘𝗘𝗡-𝗠𝗗+;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=K22A6A&lines=𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙆𝙄𝙉𝙂+𝙌𝙐𝙀𝙀𝙉+𝙏𝙀𝘼𝙈;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=A84S9Y&lines=ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:𝙼𝚁+𝙳𝚁𝙰𝙺+𝚂𝙷𝙰𝙽𝚄;)](https://git.io/typing-svg)
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrakShanu%2FKingQueen&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
