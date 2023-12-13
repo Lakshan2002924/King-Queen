@@ -38,6 +38,9 @@
 ### For Koyeb deployers:
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH-MD&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=prabath-md)
 
+### For Replit deployers:
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+
 <a href="https://github.com/Lakshan2002924/King-Queen/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork King-Queen" height="65" width="170" /></a>
 
 
