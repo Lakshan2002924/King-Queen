@@ -4,10 +4,7 @@
 
 <p align="center"> 
 <u>🤖ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ🤖</u>
-</p>
-<p align="center">
-<img src="https://ibb.co/7VQ25Q0/king-queen-md-new-logo-600-600.jpg" width="300" height="300"/>
-</p>
+
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=Q30fa02&center=true&vCenter=true&multiline=false&lines=KING+QUEEN+MD+WHATSAPP+BOT" alt="">
 
