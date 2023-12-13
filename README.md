@@ -9,8 +9,9 @@
 
 **KING QUEEN** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!
 
+<h1 align="center"> ༺°••KING QUEEN-MD••°༻ 
+</h1>
 
-## ༺°••KING QUEEN-MD••°༻ 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝙆𝙄𝙉𝙂+𝙌𝙐𝙀𝙀𝙉+𝙈𝘿.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚀𝚄𝙴𝙴𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝕄𝕣+𝔻𝕒𝕣𝕜+𝕊𝕙𝕒𝕟𝕦;)](https://git.io/typing-svg)
 
