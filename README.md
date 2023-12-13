@@ -2,10 +2,17 @@
 
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
+<p align="center"> 
+<u>🤖ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ🤖</u>
+</p>
+<p align="center">
+<img src="https://ibb.co/7VQ25Q0/king-queen-md-new-logo-600-600.jpg" width="300" height="300"/>
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=Q30fa02&center=true&vCenter=true&multiline=false&lines=KING+QUEEN+MD+WHATSAPP+BOT" alt="">
+
 <p align="center">
  <a href="https://github.com/Lakshan2002924/"><img title="Author" src="https://img.shields.io/badge/CREATOR-DRAK SHANU OFFICIAL²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
-
-![cover]()
 
 **KING QUEEN** is an user bot for WhatsApp that allowing you to get done so many tasks. This project mainly focusing on make user's work easy. This project coded with Javascript and Docker. And using **[Baileys](https://github.com/adiwajshing/Baileys)** as the WA Web API. Developer or Team members are not responsible for your usage mistakes and not using wisely. Also, you have no authorities do any modifications to this project. Enjoy!
 
@@ -15,8 +22,7 @@
 <p align="center"> 
 <b>Hello, I am "KING QUEEN" an Opensource WhatsApp bot made by <a href="https://github.com/Lakshan2002924">𝙳𝚁𝙰𝙺 𝚂𝙷𝙰𝙽𝚄</a> and his team "KING QUEEN" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support. 
 
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝙆𝙄𝙉𝙂+𝙌𝙐𝙀𝙀𝙉+𝙈𝘿.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚀𝚄𝙴𝙴𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝕄𝕣+𝔻𝕒𝕣𝕜+𝕊𝕙𝕒𝕟𝕦;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A7A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂+𝙌𝙐𝙀𝙀𝙉+𝙈𝘿.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚀𝚄𝙴𝙴𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝕄𝕣+𝔻𝕒𝕣𝕜+𝕊𝕙𝕒𝕟𝕦;)](https://git.io/typing-svg)
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrakShanu%2FKingQueen&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
