@@ -1,4 +1,4 @@
-# **King Queen💃🏻❤️** - _A Javascript WhatsApp User Bot_
+# **KING QUEEN♥️** - _A Javascript 👑💃 WhatsApp User Bot_🤖
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](assets/cover.jpg)
@@ -33,14 +33,7 @@
 
 **[» King Queen announcement group](https://chat.whatsapp.com/GMwn9PwtjlCG5BciExDXIU)**
 
-## 🐝 king queen Team - A.N.Tech *[ Since 2023 ]*
-
-| <a href="https://amdaniwasa.com"><img src="https://avatars.githubusercontent.com/u/83172207?v=4" width=80 height=80></a> | <a href="https://sasmitha-ashinsana.vercel.app/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
-|---|---|---|
-| **[Achintha Bandara](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[Black Amda]* | **[Sasmitha Ashinsana](https://github.com/sasmeee)**</br>Co-Admin/Developer | **[Lil Luzi](https://github.com/Sajiya2002)**</br>User Supporter |
-| <a href="https://dinaaofficial.github.io/dina-official/"><img src="https://avatars.githubusercontent.com/u/85923514?v=4" width=80 height=80></a> | <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://avatars.githubusercontent.com/u/89117663?v=4" width=80 height=80></a> |  **Kapaya**</br>Group Management | |
-| **[Mr.Dina](https://github.com/Dinaaofficial)**</br>Graphic Designer | **[JokaTamah](https://github.com/JokaTamah)**</br>Bug Tester | **Zeus**</br>Group Management |
-
+## 🐝 king queen Team - K.M.Tech *[ Since 2023 ]*
 
 ## License
 This project is protected by the `GNU General Public License v3.0.`
